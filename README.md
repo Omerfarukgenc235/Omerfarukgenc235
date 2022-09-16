@@ -1,7 +1,14 @@
-### Hi there 👋
-
+### Herkese merhabalar ben Ömer Faruk Genç 👋
+Selçuk Üniversitesi Bilgisayar Mühendisliğinde Okuyorum.
 <!--
 **Omerfarukgenc235/Omerfarukgenc235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+![ordek](https://user-images.githubusercontent.com/81268272/190698303-28393cfa-e745-4c30-922a-b47d8e6d4d76.gif)
+
+
+
 
 Here are some ideas to get you started:
 
