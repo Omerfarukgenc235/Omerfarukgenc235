@@ -1,5 +1,5 @@
 ### Herkese Merhabalar Ben Ömer Faruk Genç 👋
-Selçuk Üniversitesi Bilgisayar Mühendisliğin 4.Sınıf Öğrencisiyim. Asp.Net Mvc, Asp.Net Core Mvc, Asp.Net Core Web Api Alanında Full-Stack Olarak Kendimi Geliştiriyorum.
+Selçuk Üniversitesi Bilgisayar Mühendisliğin 4.Sınıf Öğrencisiyim. Asp.Net Mvc, Asp.Net Core Mvc, Asp.Net Core Web Api Alanında Kendimi Geliştiriyorum.
 
 
 
