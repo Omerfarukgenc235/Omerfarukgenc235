@@ -5,8 +5,8 @@ Selçuk Üniversitesi Bilgisayar Mühendisliğinde Okuyorum.
 
 
 
-![ordek](https://user-images.githubusercontent.com/81268272/190698303-28393cfa-e745-4c30-922a-b47d8e6d4d76.gif)
 
+![ordek](https://user-images.githubusercontent.com/81268272/190698538-d987f764-aeea-4fc3-9b0d-d02cbad219aa.gif)
 
 
 
