@@ -1,5 +1,8 @@
 ### Herkese merhabalar ben Ömer Faruk Genç 👋
 Selçuk Üniversitesi Bilgisayar Mühendisliğinde Okuyorum.
+
+
+
 ![ordek](https://user-images.githubusercontent.com/81268272/190699244-88c8d6a7-73d0-44e7-9689-2bc559e33dc8.gif)
 
 <!--
