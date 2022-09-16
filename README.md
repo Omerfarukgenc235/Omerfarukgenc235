@@ -1,12 +1,11 @@
 ### Herkese merhabalar ben Ömer Faruk Genç 👋
 Selçuk Üniversitesi Bilgisayar Mühendisliğinde Okuyorum.
+![ordek](https://user-images.githubusercontent.com/81268272/190699244-88c8d6a7-73d0-44e7-9689-2bc559e33dc8.gif)
+
 <!--
 **Omerfarukgenc235/Omerfarukgenc235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-
-
-![ordek](https://user-images.githubusercontent.com/81268272/190698538-d987f764-aeea-4fc3-9b0d-d02cbad219aa.gif)
 
 
 
